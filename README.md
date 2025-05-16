@@ -1,3 +1,7 @@
 # Surfgram Examples
 
-## Surfgram simple code examples. This project have been auto-generated and do NOT provide prod-ready projects
+## Surfgram simple code examples. 
+- [Bot Example](bot_example/)
+- [Handlers Examples](handlers_examples/)
+
+>NOTE: Handlers examples is NOT prod-ready examples.
